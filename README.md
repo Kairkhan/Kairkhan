@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Kaiyrkhan
 
-<!--
-**Kairkhan/Kairkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Kairkhan)
 
-Here are some ideas to get you started:
+## I'm a BackEnd Developer at Spark Logistics
+- :computer: I like to write code
+- :soccer: I love football and my favourite football club is CHELSEA :tiger:
+- :green_book: I always try to learn new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kairkhan&langs_count=8&layout=compact" />
+<br/>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kairkhan&show_icons=true" />
+
+[linkedin]: https://www.linkedin.com/in/kaiyrkhan-serik-594296209
+[instagram]: https://www.instagram.com/kaiyrkhan_serik/
