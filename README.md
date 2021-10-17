@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Kairkhan)
 
-## I'm a BackEnd Developer at Spark Logistics
+## I'm a Backend Developer at Spark Logistics
 - :computer: I like to write code
 - :soccer: I love football and my favourite football club is CHELSEA :tiger:
 - :green_book: I always try to learn new things
