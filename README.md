@@ -3,9 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=Kairkhan)
 
 ## I'm a Backend Developer at Spark Logistics
-- :computer: I like to write code
-- :soccer: I love football and my favourite football club is CHELSEA :tiger:
-- :green_book: I always try to learn new things
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kairkhan&langs_count=8&layout=compact" />
 <br/>
